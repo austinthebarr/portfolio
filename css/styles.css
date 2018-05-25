@@ -58,3 +58,13 @@ li a:hover {
   padding:75px;
   margin-top: 4em;
 }
+
+
+@media screen and (max-width: 1060px) {
+
+  .about{
+    margin-top: -2em;
+  }
+
+
+}
