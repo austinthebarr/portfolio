@@ -26,13 +26,13 @@ Body{
   font-family: comfortaa;
 }
 
-a{
+li a{
   text-decoration: none!important;
   color: #2E5266;
   font-family: pacifico;
 }
 
-a:hover{
+li a:hover{
   border-bottom: 2px solid #ED6A5A;
 }
 
@@ -42,7 +42,7 @@ a:hover{
 }
 
 
-img {
+.about {
   max-width :20%;
   margin-top: -7em;
   margin-right: 4em;
@@ -53,8 +53,4 @@ img {
 .well {
   padding:75px;
   margin-top: 4em;
-}
-
-.navbar-brand {
-  margin-top: 2em;
 }
