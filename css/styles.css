@@ -40,6 +40,10 @@ li a:hover{
   font-family: comfortaa;
   color: #090C08;
 }
+.panel-heading, h2, .header {
+  font-size: 32px;
+  font-weight: bold;
+}
 
 
 .about {
