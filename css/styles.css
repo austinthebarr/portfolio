@@ -59,12 +59,16 @@ li a:hover {
   margin-top: 4em;
 }
 
+@media screen and (max-width: 1223px) {
+
+  .about{
+    margin-top: -4em;
+  }
+}
 
 @media screen and (max-width: 1060px) {
 
   .about{
     margin-top: -2em;
   }
-
-
 }
